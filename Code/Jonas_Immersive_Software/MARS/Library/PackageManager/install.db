@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "94af2d06fce5",
+        "mtime": 1642532290000,
+        "size": 8319303,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.2.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.sceneunderstanding": {
+      "tarball": {
+        "hash": "7bfd3a8ea18c",
+        "mtime": 1645181388000,
+        "size": 1293225,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.sceneunderstanding-0.6.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "38699c4ce8cf",
+        "mtime": 1642695008000,
+        "size": 55036630,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "dd97a7745746",
+        "mtime": 1642695002000,
+        "size": 1130819,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "3bad99c89252",
+        "mtime": 1642533098000,
+        "size": 8670682,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1642533094000,
+        "size": 343203,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "2095abe3b61d",
+        "mtime": 1642533098000,
+        "size": 5303497,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "2c119bd3c146",
+        "mtime": 1642533096000,
+        "size": 2110451,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "tarball": {
+        "hash": "e6b772a57a84",
+        "mtime": 1645623642000,
+        "size": 83168201,
+        "localPath": "C:\\Users\\jonasweimar\\Desktop\\MARS_22-03-22\\MARS\\Packages\\MixedReality\\com.microsoft.spatialaudio.spatializer.unity-2.0.24-prerelease.tgz"
+      }
+    }
+  }
+}

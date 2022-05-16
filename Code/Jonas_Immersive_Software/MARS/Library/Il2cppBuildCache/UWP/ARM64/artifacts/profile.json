@@ -1,0 +1,29 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+"traceEvents":[
+{ "cat":"", "pid":1, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"tundra" } }
+,{ "pid":1, "tid":0, "ts":371415209, "dur":730, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":1, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":371415942, "dur":7522, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":8, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":371423578, "dur":8, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"RemoveStaleOutputs" }}
+,{ "pid":1, "tid":0, "ts":371423595, "dur":1, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"PrepareNodes" }}
+,{ "pid":1, "tid":0, "ts":371423598, "dur":201, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"BuildQueueInit" }}
+,{ "pid":1, "tid":0, "ts":491697158, "dur":27837, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":28, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":491725066, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":491725134, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":491725192, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":491725262, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":491725302, "dur":934, "ph":"X", "name": "Tundra",  "args": { "durationMS":1, "detail":"Write AllBuiltNodes" }}
+,{ "pid":1, "tid":1, "ts":371424343, "dur":12913, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":13, "detail":"Il2Cpp C:/Users/jonasweimar/Desktop/MARS_22-03-22/MARS/Library/Il2cppBuildCache/UWP/ARM64/il2cppOutput/Data/Metadata/global-metadata.dat" }}
+,{ "pid":1, "tid":1, "ts":371438971, "dur":120258057, "ph":"X", "name": "Il2Cpp",  "args": { "durationMS":120258, "detail":"C:/Users/jonasweimar/Desktop/MARS_22-03-22/MARS/Library/Il2cppBuildCache/UWP/ARM64/il2cppOutput/Data/Metadata/global-metadata.dat" }}
+,{ "pid":1, "tid":1, "ts":491697048, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"all_tundra_nodes" }}
+,{ "pid":1, "tid":1, "ts":491697106, "dur":54, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":1, "ts":491697161, "dur":27015, "ph":"X", "name": "Exiting",  "args": { "durationMS":27, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":2, "ts":371424374, "dur":120272882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":120273, "detail":"" }}
+,{ "pid":1, "tid":2, "ts":491697259, "dur":26856, "ph":"X", "name": "Exiting",  "args": { "durationMS":27, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":3, "ts":371424388, "dur":120272842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":120273, "detail":"" }}
+,{ "pid":1, "tid":3, "ts":491697240, "dur":26879, "ph":"X", "name": "Exiting",  "args": { "durationMS":27, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":4, "ts":371424397, "dur":120272783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":120273, "detail":"" }}
+,{ "pid":1, "tid":4, "ts":491697207, "dur":26927, "ph":"X", "name": "Exiting",  "args": { "durationMS":27, "detail":"BuildLoop" }}
+
+]
+}
