@@ -1,0 +1,2 @@
+# Format der Dateien
+Die Dateien sind in Form eines .zip, da es sonst den Rahmen auf GitHub sprengt. Im Code Verzeichnis findet sich der Code der zwei Module aufgeschlüsselt nach Arbeiter. Bilder und PDFs sind im gleichnamigen Ordner anzufinden.
